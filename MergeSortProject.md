@@ -19,7 +19,7 @@ Başlangıç: [16,21,11,8,12,22]
 
 # Big-O gösterimini yazınız.
 
-Big-O(nlogn)
+Big-O(nlogn) --> O(6log6)
 
 [Patika.dev](https://www.patika.dev) 
 
