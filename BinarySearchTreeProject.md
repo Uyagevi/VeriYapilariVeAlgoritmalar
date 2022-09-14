@@ -15,7 +15,7 @@ Dizinin en başındaki eleman root olarak seçilir, bu projedeki root 7'dir.
 * 4, 7'den küçük olduğu için sola gelir ve 3'ün sağına yazılır.
 * 2, 7'den küçük olduğu için sola, 3 elemanının soluna yazılır.
 
-![BinarySearchTreeImg](img/BinarySearchTreeProject.PNG)
+![BinarySearchTreeImg](BinarySearchTreeImg/BinarySearchTreeProject.PNG)
 
 [Patika.dev](https://www.patika.dev) 
 
